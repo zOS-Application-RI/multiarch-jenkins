@@ -1,4 +1,4 @@
-FROM jenkins/jenkins
+FROM jenkins/jenkins:latest-jdk11
 ####
 #### Ansible on Jenkins
 ####
