@@ -1,6 +1,6 @@
 FROM jenkins/jenkins:latest-jdk11
 ####
-#### Ansible on Jenkins
+#### Python, Ansible on Jenkins
 ####
 USER root
 RUN apt update \
