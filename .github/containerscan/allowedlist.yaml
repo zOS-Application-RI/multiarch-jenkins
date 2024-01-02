@@ -56,4 +56,5 @@ general:
     - CIS-DI-0008
     - DKL-LI-0003
     - DKL-DI-0006
-    - DKL-DI-0005               
+    - DKL-DI-0005    
+    - CIS-DI-0010           
