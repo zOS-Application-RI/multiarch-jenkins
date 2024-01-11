@@ -1,4 +1,4 @@
-FROM jenkins/jenkins:jdk17
+FROM jenkins/jenkins:latest-jdk11
 ####
 #### Python, Ansible on Jenkins
 ####
